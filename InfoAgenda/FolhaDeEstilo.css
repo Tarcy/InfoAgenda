@@ -1,0 +1,301 @@
+﻿body {
+    background: linear-gradient(white,#31375A);
+}
+
+.Cabecalho {
+    height: 50px;
+    width: auto;
+    background-color: #211C25;
+}
+
+.InfoAgenda {
+    padding-top: 15%;
+    font-family: 'Microsoft Sans Serif';
+    font-size: large;
+    color: white;
+   
+}
+
+.PlanosServicos {
+    padding-top: 5%;
+    font-size: large;
+    font-family: 'Microsoft Sans Serif';
+    color: white;
+
+}
+
+.Contato {
+    padding-top: 5%;
+    font-size: large;
+    font-family: 'Microsoft Sans Serif';
+    color: white;
+}
+
+.Logo2 {
+    height: 150px;
+    width: auto;
+}
+
+.Login {
+    height: 150px;
+    width: auto;
+    background-color: #31375A;
+    border-radius: 10px;
+    color: white;
+    font-family: 'Microsoft Sans Serif';
+    box-shadow: 10px 10px 5px #111;
+
+}
+
+.Cadastro {
+    height: 150px;
+    width: auto;
+    padding-left: 20px;
+    font-family: 'Microsoft Sans Serif';
+
+}
+
+.Menu {
+    height: 50px;
+    width: auto;
+    margin-top: 30px;
+    font-family: 'Microsoft Sans Serif';
+}
+
+.Informacoes {
+    height: 400px;
+    width: auto;
+}
+
+.Eventos {
+    height: 450px;
+    width: auto;
+    background-color:#211c25;
+    border-radius:10px;
+}
+
+footer {
+    height: 350px;
+    width: auto;
+    background-color: #211C25;
+    font-family: 'Microsoft Sans Serif';
+}
+
+
+.Filtro {
+    height: 400px;
+    width: auto;
+    padding-top: 20px;
+    padding-left: 70px;
+    font-family: 'Microsoft Sans Serif';
+   
+}
+
+.Formularios {
+    height: 400px;
+    width: auto;
+    padding-top:25px
+   
+}
+
+#btn_Cadastrar {
+    height: 50px;
+    width: 250px;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-family: 'Microsoft Sans Serif';
+    box-shadow: 5px 5px 5px #111;
+}
+
+#btn_Login {
+    height: 40px;
+    width: 80px;
+    margin-top: 50px;
+    font-family: 'Microsoft Sans Serif';
+    box-shadow: 5px 5px 5px #111;
+}
+
+.Form1 {
+    height: 190px;
+    width: 100%;
+
+}
+
+.Form2 {
+    height: 190px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.Primeiro {
+    height: 190px;
+    background-color: #33475C;
+    font-family: 'Microsoft Sans Serif';
+    font-size: medium;
+    color:white;
+    box-shadow: 10px 10px 5px Black;
+    padding-left:10px;
+    padding-top:10px;
+    border-radius:10px;
+    
+       
+    
+}
+
+.Segundo {
+    height: 190px;
+    background-color: #33475C;
+    font-family: 'Microsoft Sans Serif';
+    font-size: medium;
+    color:white;
+    box-shadow: 10px 10px 5px Black;
+    padding-left:10px;
+    padding-top:10px;
+    border-radius:10px;
+}
+
+.Terceiro {
+    height: 190px;
+    background-color: #33475C;
+    font-family: 'Microsoft Sans Serif';
+    font-size: medium;
+    color:white;
+    box-shadow: 10px 10px 5px Black;
+    padding-left:10px;
+    padding-top:10px;
+    border-radius:10px;
+}
+
+.Quarto {
+    height: 190px;
+    background-color: #33475C;
+    font-family: 'Microsoft Sans Serif';
+    font-size: medium;
+    color:white;
+    box-shadow: 10px 10px 5px Black;
+    padding-left:10px;
+    padding-top:10px;
+    border-radius:10px;
+}
+
+.Quinto {
+     height: 190px;
+    background-color: #33475C;
+    font-family: 'Microsoft Sans Serif';
+    font-size: medium;
+    color:white;
+    box-shadow: 10px 10px 5px Black;
+    padding-left:10px;
+    padding-top:10px;
+    border-radius:10px;
+}
+
+.Sexto {
+    height: 190px;
+    background-color: #33475C;
+    font-family: 'Microsoft Sans Serif';
+    font-size: medium;
+    color:white;
+    box-shadow: 10px 10px 5px Black;
+    padding-left:10px;
+    padding-top:10px;
+    border-radius:10px;
+}
+
+.Setimo {
+    height: 190px;
+    background-color: #33475C;
+    font-family: 'Microsoft Sans Serif';
+    font-size: medium;
+    color:white;
+    box-shadow: 10px 10px 5px Black;
+    padding-left:10px;
+    padding-top:10px;
+    border-radius:10px;
+}
+
+.Oitavo {
+   height: 190px;
+    background-color: #33475C;
+    font-family: 'Microsoft Sans Serif';
+    font-size: medium;
+    color:white;
+    box-shadow: 10px 10px 5px Black;
+    padding-left:10px;
+    padding-top:10px;
+    border-radius:10px;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 70%;
+    margin: auto;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+    li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+        li a:hover:not(.active) {
+            background-color: #111;
+        }
+
+.active {
+    background-color: #31375A;
+}
+
+.f1 {
+    height: 300px;
+    width: auto;
+    padding-top: 50px;
+    padding-left: 60px;
+}
+
+.f2 {
+    height: 300px;
+    width: auto;
+    padding-top: 100px;
+    font-size: large;
+    font-family: 'Microsoft Sans Serif';
+    color: white;
+}
+
+.f3 {
+    height: 300px;
+    width: auto;
+    color: white;
+    font-size: large;
+    font-family: 'Microsoft Sans Serif';
+}
+
+.f4 {
+    height: 300px;
+    width: auto;
+    padding-top: 50px;
+    color: white;
+    font-size: large;
+    font-family: 'Microsoft Sans Serif';
+}
+
+#btn_email {
+    margin-left: 70%;
+    font-family: 'Microsoft Sans Serif';
+}
+
+
